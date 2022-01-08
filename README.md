@@ -4,11 +4,11 @@ A simple welcome bot
 
 **Installation**
 
-To start you need to install the dependencies. To do this, run `npm i` in a terminal.
+To start, you need to install node >=16. Then you need to install the dependencies. To do this, run `npm i` in a terminal.
 
 **Configuration**
 
-First you have to fill in the TOKEN in the config.json file. To find this token go to the [developer portal](https://discord.com/developers/applications). Then you have to modify the messages that the bot will send in the index.js file. 
+First you have to rename `config.exemple.json` to `config.json` and fill in the TOKEN in the config.json file. To find this token go to the [developer portal](https://discord.com/developers/applications). Then you have to modify the messages that the bot will send in the index.js file. 
 
 **Launch**
 
